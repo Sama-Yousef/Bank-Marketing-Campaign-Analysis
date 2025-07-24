@@ -16,7 +16,7 @@ The dataset consists of marketing call records collected between **May 2008 and 
 - Generate actionable marketing insights.
 
 ---
-![Tableau Dashboard Preview](dashboard_preview.png)
+![Tableau Dashboard Preview](dashboard.png)
 
 ## 🧠 Techniques Used
 
