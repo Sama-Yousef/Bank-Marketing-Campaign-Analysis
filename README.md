@@ -8,12 +8,15 @@ This project analyzes the effectiveness of a Portuguese bank's telemarketing cam
 
 ## 📌 Project Overview
 
-The dataset consists of marketing call records collected between **May 2008 and November 2010**. The key goals of this project:
+This project is based on a case study from **Chapter 3** of the book  
+[The Data Analysis Workshop by Packt](https://github.com/PacktWorkshops/The-Data-Analysis-Workshop/tree/master/Chapter03).  
+It analyzes a Portuguese bank’s telemarketing campaign to identify factors influencing customer response.
 
-- Explore client and campaign-related features.
-- Identify patterns in successful vs. unsuccessful campaigns.
-- Apply regression techniques to model the outcomes.
-- Generate actionable marketing insights.
+The dataset includes marketing call records between **May 2008 and November 2010**.  
+Key objectives include:
+- Understanding demographic and campaign-related features
+- Applying regression models to interpret outcomes
+- Building dashboards for strategic decision-making
 
 ---
 ![Tableau Dashboard Preview](Dashboard.png)
